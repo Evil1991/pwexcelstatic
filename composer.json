@@ -1,0 +1,13 @@
+{
+    "name": "user/excelgenerator",
+    "authors": [
+        {
+            "name": "11",
+            "email": "11@aaa.ru"
+        }
+    ],
+    "require": {
+        "php": "<=5.6.38",
+        "phpoffice/phpspreadsheet": "^1.8"
+    }
+}
